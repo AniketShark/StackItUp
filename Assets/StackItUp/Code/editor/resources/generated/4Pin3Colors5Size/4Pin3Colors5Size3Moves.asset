@@ -1,0 +1,3495 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 11500000, guid: 82de2de2c69594c5cb4b186e42e1dce8, type: 3}
+  m_Name: 4Pin3Colors5Size3Moves
+  m_EditorClassIdentifier: 
+  AllLevels:
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 0
+      to: 3
+      tile:
+        colorIndex: 0
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 0
+        size: 2
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 1
+      to: 3
+      tile:
+        colorIndex: 2
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 2
+        size: 1
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 2
+      to: 3
+      tile:
+        colorIndex: 2
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 2
+        size: 2
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 0
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 1
+      to: 3
+      tile:
+        colorIndex: 0
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 0
+        size: 1
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 2
+      to: 3
+      tile:
+        colorIndex: 2
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 2
+        size: 2
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 3
+      tile:
+        colorIndex: 0
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 0
+        size: 2
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 1
+      to: 3
+      tile:
+        colorIndex: 1
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 1
+        size: 1
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 2
+      to: 3
+      tile:
+        colorIndex: 0
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 0
+        size: 1
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 2
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 3
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 2
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 3
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 2
+    - from: 0
+      to: 3
+      tile:
+        colorIndex: 0
+        size: 3
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 0
+        size: 3
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 2
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 0
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 2
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 2
+    - from: 1
+      to: 3
+      tile:
+        colorIndex: 0
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 0
+        size: 1
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 2
+    - from: 2
+      to: 3
+      tile:
+        colorIndex: 0
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 0
+        size: 2
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 2
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 3
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 2
+    - from: 0
+      to: 3
+      tile:
+        colorIndex: 0
+        size: 3
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 0
+        size: 3
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 2
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 2
+    - from: 2
+      to: 3
+      tile:
+        colorIndex: 2
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 2
+        size: 1
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 1
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 0
+      to: 3
+      tile:
+        colorIndex: 1
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 1
+        size: 1
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 1
+      to: 3
+      tile:
+        colorIndex: 2
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 2
+        size: 1
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 2
+      to: 3
+      tile:
+        colorIndex: 2
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 2
+        size: 2
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 1
+      to: 3
+      tile:
+        colorIndex: 1
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 1
+        size: 2
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 0
+      tile:
+        colorIndex: 2
+        size: 1
+    - from: 2
+      to: 3
+      tile:
+        colorIndex: 2
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 2
+        size: 2
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 2
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 1
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 2
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 2
+    - from: 0
+      to: 3
+      tile:
+        colorIndex: 1
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 1
+        size: 1
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 2
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 3
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 2
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 3
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 2
+    - from: 1
+      to: 3
+      tile:
+        colorIndex: 1
+        size: 3
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 1
+        size: 3
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 2
+    - from: 2
+      to: 3
+      tile:
+        colorIndex: 1
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 1
+        size: 2
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 2
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 3
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 2
+    - from: 1
+      to: 3
+      tile:
+        colorIndex: 1
+        size: 3
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 1
+        size: 3
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 2
+    - from: 2
+      to: 1
+      tile:
+        colorIndex: 2
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 2
+    - from: 2
+      to: 3
+      tile:
+        colorIndex: 2
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 2
+        size: 1
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 0
+      to: 1
+      tile:
+        colorIndex: 0
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 0
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 0
+      to: 3
+      tile:
+        colorIndex: 0
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 0
+        size: 1
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 1
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 3
+      tiles: []
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 1
+      to: 3
+      tile:
+        colorIndex: 1
+        size: 2
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+      - colorIndex: 1
+        size: 1
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 1
+        size: 2
+    IsExported: 0
+    ExportedFileName: 
+  - colors: 3
+    pins: 4
+    tileSize: 5
+    AppliedMoves:
+    - from: 1
+      to: 0
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 0
+      to: 2
+      tile:
+        colorIndex: 1
+        size: 1
+    - from: 2
+      to: 3
+      tile:
+        colorIndex: 1
+        size: 1
+    PinConfigs:
+    - pinIndex: 0
+      tiles:
+      - colorIndex: 0
+        size: 5
+      - colorIndex: 0
+        size: 4
+      - colorIndex: 0
+        size: 3
+      - colorIndex: 0
+        size: 2
+      - colorIndex: 0
+        size: 1
+    - pinIndex: 1
+      tiles:
+      - colorIndex: 1
+        size: 5
+      - colorIndex: 1
+        size: 4
+      - colorIndex: 1
+        size: 3
+      - colorIndex: 1
+        size: 2
+    - pinIndex: 2
+      tiles:
+      - colorIndex: 2
+        size: 5
+      - colorIndex: 2
+        size: 4
+      - colorIndex: 2
+        size: 3
+      - colorIndex: 2
+        size: 2
+      - colorIndex: 2
+        size: 1
+    - pinIndex: 3
+      tiles:
+      - colorIndex: 1
+        size: 1
+    IsExported: 0
+    ExportedFileName: 

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6930fc9e42b44924398d556aaab780da, type: 3}
+  m_Name: 8
+  m_EditorClassIdentifier: 
+  meshes:
+  - index: 1
+    mesh: {fileID: -1889131127568411021, guid: fa49353c10f108f4d8d6f8787e1f52df, type: 3}
+  - index: 2
+    mesh: {fileID: -8519267310832362091, guid: b2dd94675ec47e54f8eb3b45d1729e50, type: 3}
+  - index: 3
+    mesh: {fileID: 7011489806199897549, guid: cd113c2ccac0d7c498922e2c0507af55, type: 3}
+  - index: 4
+    mesh: {fileID: -5799563776389858499, guid: 178818e27d13acb489e9c6378299f659, type: 3}
+  - index: 5
+    mesh: {fileID: -4230975349557500464, guid: 2ff1fd4d8aae3304b9fc60837aa56bc0, type: 3}
+  - index: 5
+    mesh: {fileID: 1305535169422091043, guid: fa1bf1e8677493746b250e3285f77dc3, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 1d06c18ba72355346b8f63338f57cbba, type: 2}
+  stackBase: {fileID: 1149973307703454695, guid: 1392a3358fd89fc47bb9b56122da7481,
+    type: 3}
+  pinMesh: {fileID: 2406853084622926919, guid: 17dee71e4b8bcb047b5fc940680f8ba5, type: 3}
+  stackBaseMaterial: {fileID: 2100000, guid: 5011a0821f82a964d8066bd8989cb089, type: 2}

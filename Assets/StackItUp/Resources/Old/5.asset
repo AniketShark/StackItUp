@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ea557cf69b18a47a920d6a6da79ff7, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  stackCount: 4
+  sequence: 010000000200000003000000040000000500000006000000
+  colors:
+  - {fileID: 2100000, guid: 9d468f1f53e836f47884587cb2d83f45, type: 2}
+  - {fileID: 2100000, guid: 1c77966a9e97b154795de9c1964b63c0, type: 2}
+  - {fileID: 2100000, guid: df0aa68b4e99c7247ba7e0d72a6a78a9, type: 2}
+  - {fileID: 2100000, guid: 22c51082605eacd4fb5ae8caa07097ff, type: 2}
+  pins: 5
+  pinConfig:
+  - pinIndex: 0
+    tiles:
+    - colorIndex: 0
+      size: 6
+    - colorIndex: 0
+      size: 5
+    - colorIndex: 0
+      size: 4
+    - colorIndex: 0
+      size: 3
+  - pinIndex: 1
+    tiles:
+    - colorIndex: 1
+      size: 6
+    - colorIndex: 1
+      size: 5
+    - colorIndex: 1
+      size: 4
+    - colorIndex: 1
+      size: 3
+    - colorIndex: 1
+      size: 2
+    - colorIndex: 1
+      size: 1
+  - pinIndex: 2
+    tiles:
+    - colorIndex: 2
+      size: 6
+    - colorIndex: 2
+      size: 5
+    - colorIndex: 2
+      size: 4
+    - colorIndex: 2
+      size: 3
+    - colorIndex: 2
+      size: 2
+    - colorIndex: 0
+      size: 2
+    - colorIndex: 2
+      size: 1
+    - colorIndex: 0
+      size: 1
+  - pinIndex: 3
+    tiles:
+    - colorIndex: 3
+      size: 6
+    - colorIndex: 3
+      size: 5
+    - colorIndex: 3
+      size: 4
+    - colorIndex: 3
+      size: 3
+  - pinIndex: 4
+    tiles:
+    - colorIndex: 3
+      size: 1
+    - colorIndex: 3
+      size: 2

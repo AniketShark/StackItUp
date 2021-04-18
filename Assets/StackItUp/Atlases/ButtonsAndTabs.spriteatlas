@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ButtonsAndTabs
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 90c6f6fdcd859445584a923494a49098, type: 3}
+    totalSpriteSurfaceArea: 87116
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4858e152cf1864da293ed77efa6f4e31, type: 3}
+  - {fileID: 21300000, guid: f8f919528929444d38fb2c14ee234bb1, type: 3}
+  - {fileID: 21300000, guid: 66982843b793e4fca92ac00569f2a7ad, type: 3}
+  - {fileID: 21300000, guid: edf711441da8c428bae528686532e5e4, type: 3}
+  - {fileID: 21300000, guid: 11d75de4e00bf4ca096aa248388d6a76, type: 3}
+  - {fileID: 21300000, guid: a614e576e7951ce43852d9289ccd1b05, type: 3}
+  - {fileID: 21300000, guid: 4d07b2098820749219726c7524130fdf, type: 3}
+  - {fileID: 21300000, guid: a9aaca29bf1a56a418e513fb515e24a0, type: 3}
+  - {fileID: 21300000, guid: 55b65d3aae1546d40ba9451021f9cec2, type: 3}
+  - {fileID: 21300000, guid: 52a0b86a66ab743af98c4135d7f3e480, type: 3}
+  - {fileID: 21300000, guid: c6e1c1cabbcb24e8fa0372a11a27535e, type: 3}
+  - {fileID: 21300000, guid: ad29e3eb01b103243bdcbf4a2ff4b29a, type: 3}
+  - {fileID: 21300000, guid: 159709bc538104a329b60b7b07386209, type: 3}
+  - {fileID: 21300000, guid: 936056ec3ddb143549903ecd2f90bdc8, type: 3}
+  - {fileID: 21300000, guid: 01e584fc9ff6d4a969400e68b97befc4, type: 3}
+  - {fileID: 21300000, guid: 18e2ff1d451834543904126f62d5eb65, type: 3}
+  - {fileID: 21300000, guid: 8bba60bd272ff4978982a12a88f56b11, type: 3}
+  - {fileID: 21300000, guid: 876d94fdf1dce454c95595e9e6df2ef0, type: 3}
+  - {fileID: 21300000, guid: a0c4441e403ea437ca79f6f9b5b15da8, type: 3}
+  - {fileID: 21300000, guid: 17ef8c2e6bda845ca82eb3e56635a961, type: 3}
+  - {fileID: 21300000, guid: a4f28b6fb67fb4658addf98ee532a7ac, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - UI_Tab_Inactive
+  - UI_Frame_Dark_White
+  - UI_Frame_Transparent
+  - UI_Button_Standard_Orange
+  - UI_Frame_Dark_Transparent
+  - UI_Fill_Square
+  - UI_Fill_Orange
+  - UI_Fill_Circle
+  - UI_Fill_Capsule
+  - UI_Fill_Green
+  - UI_Tab_Active
+  - UI_Square
+  - UI_Frame_White
+  - UI_Fill_Sky
+  - UI_Button_Standard_Red
+  - UI_Fill_Red
+  - UI_Panel_Window
+  - UI_Rounded_Square
+  - UI_Panel_Content
+  - UI_Button_Standard_Green
+  - UI_Button_Standard_Sky
+  m_Tag: ButtonsAndTabs
+  m_IsVariant: 0

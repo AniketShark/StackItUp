@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5f57f0a6f4eefa342b632ecfdddf755d, type: 3}
+    totalSpriteSurfaceArea: 704512
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5762a750a9cb0ae46a3cd76cfd33bd38, type: 3}
+  - {fileID: 21300000, guid: c5c03e90d49ed584fb13302f5da6a310, type: 3}
+  - {fileID: 21300000, guid: 85f0c6617eda6df428cd38aca5016ed4, type: 3}
+  - {fileID: 21300000, guid: 4ae37e611c4bb0b46bdf26bd5870f0df, type: 3}
+  - {fileID: 21300000, guid: f089b08110ec87047962ddd9f2cf8891, type: 3}
+  - {fileID: 21300000, guid: bdd031c13e3177e4596c0d3d29487b14, type: 3}
+  - {fileID: 21300000, guid: 4b66bf627b17f7e409e56837d99a34c6, type: 3}
+  - {fileID: 21300000, guid: e8729292d2bbe034d9b38547ad50912d, type: 3}
+  - {fileID: 21300000, guid: 0603fc923735a2b4083a51931b8ab8d7, type: 3}
+  - {fileID: 21300000, guid: 00b411b2e8560b64a9dd0f5b5cff61db, type: 3}
+  - {fileID: 21300000, guid: 858661f242c41674c8910e31d11ae28d, type: 3}
+  - {fileID: 21300000, guid: 819ec1035f8b6b242877623c565018e5, type: 3}
+  - {fileID: 21300000, guid: 2739313327bb66741a4c082661fb70cb, type: 3}
+  - {fileID: 21300000, guid: defd7633247b538478cfd4ea1de6dcc0, type: 3}
+  - {fileID: 21300000, guid: 7f525273b590c2143b3bfbccce407a19, type: 3}
+  - {fileID: 21300000, guid: d83b53831b898f049b73c600d0ce8518, type: 3}
+  - {fileID: 21300000, guid: 2d0c86e3daabd3543b4bafeeeb0b9b00, type: 3}
+  - {fileID: 21300000, guid: a8991b743db7c234eaa49321d81df71f, type: 3}
+  - {fileID: 21300000, guid: 081c46b44f6c6104f86b57d9f15e8f0d, type: 3}
+  - {fileID: 21300000, guid: fee617e499473e443bb61c94d5a9665f, type: 3}
+  - {fileID: 21300000, guid: 2e147c952b4cbbe4c81781739cf11dff, type: 3}
+  - {fileID: 21300000, guid: 63103c36003303c418e21aefe86d3f97, type: 3}
+  - {fileID: 21300000, guid: 30a28056ce5b1a44099419de11b61f59, type: 3}
+  - {fileID: 21300000, guid: 79d76e8697717f742ada2a84a1312de5, type: 3}
+  - {fileID: 21300000, guid: fd44b8b8d920bf84092b0418ad5693a5, type: 3}
+  - {fileID: 21300000, guid: e3cc7029966a3154a88aae2b5f396d9e, type: 3}
+  - {fileID: 21300000, guid: be5fa529ece89db4b84e0ab17d067625, type: 3}
+  - {fileID: 21300000, guid: 20e7b1398bc666e4787cedf186375622, type: 3}
+  - {fileID: 21300000, guid: c6b43179c34c6bb4b83b09f0b8397d6b, type: 3}
+  - {fileID: 21300000, guid: fd8bb50a35663fc41879a01785079024, type: 3}
+  - {fileID: 21300000, guid: e939bfcabf2333242aed305cb50e5d40, type: 3}
+  - {fileID: 21300000, guid: 5f33a58b97d728d41a17101d21250916, type: 3}
+  - {fileID: 21300000, guid: f5834f6c6acba664c813f01dbe15f8e4, type: 3}
+  - {fileID: 21300000, guid: c76d039ca3b56e84890c42d4846547b5, type: 3}
+  - {fileID: 21300000, guid: b98c80ec6380ee64bb180a19919e2dd4, type: 3}
+  - {fileID: 21300000, guid: 38e3e78d8614c014ca98d0b3e178e1d9, type: 3}
+  - {fileID: 21300000, guid: 5ebae59df366e1442abfcc449f6e6c80, type: 3}
+  - {fileID: 21300000, guid: 07cced9d907fb5343932c2aaffaa697d, type: 3}
+  - {fileID: 21300000, guid: c292472e4d464ad49a4126eb2209f2e2, type: 3}
+  - {fileID: 21300000, guid: 9eedd16ed55586046b637c5340638ad7, type: 3}
+  - {fileID: 21300000, guid: df2f2d1f60b9d654e92b503ad96d4e90, type: 3}
+  - {fileID: 21300000, guid: 6aa6219f987627b4fa92c844ed3853f9, type: 3}
+  - {fileID: 21300000, guid: 3edd4d9fa6f5b6742bb102861f463f02, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - UI_Icon_SocialFacebook
+  - UI_Icon_SocialTwitter2
+  - UI_Icon_Plus
+  - UI_Icon_SocialYoutube
+  - UI_Icon_Wrench
+  - UI_Icon_SocialReddit
+  - UI_Icon_SoundOn
+  - UI_Icon_TogglePrevious
+  - UI_Icon_Reply
+  - UI_Icon_Repeat
+  - UI_Icon_Settings
+  - UI_Icon_Globe
+  - UI_Icon_DevicePhone
+  - UI_Icon_Star
+  - UI_Icon_Wifi
+  - UI_Icon_Checkbox
+  - UI_Icon_MusicOff
+  - UI_Icon_WifiProblem
+  - UI_Icon_Ban
+  - UI_Icon_Reload
+  - UI_Icon_Refresh
+  - UI_Icon_Play
+  - UI_Icon_ToggleOn
+  - UI_Icon_MusicOn
+  - UI_Icon_ColorPalette
+  - UI_Icon_Confirm
+  - UI_Icon_ToggleNext
+  - UI_Icon_Exit
+  - UI_Icon_SocialTwitter3
+  - UI_Icon_StarEmpty
+  - UI_Icon_SocialDiscord
+  - UI_Icon_Info
+  - UI_Icon_ToggleOff
+  - UI_Icon_Close
+  - UI_Icon_SoundOff
+  - UI_Icon_SocialWhatsapp
+  - UI_Icon_SocialMessenger
+  - UI_Icon_Edit
+  - UI_Icon_PlayBackwards
+  - UI_Icon_MultiPlayer
+  - UI_Icon_Key
+  - UI_Icon_Inbox
+  - UI_Icon_Trophy
+  m_Tag: Icons
+  m_IsVariant: 0

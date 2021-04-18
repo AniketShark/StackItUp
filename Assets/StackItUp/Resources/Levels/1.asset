@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ea557cf69b18a47a920d6a6da79ff7, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  stackCount: 2
+  sequence: 010000000200000003000000
+  colors:
+  - {fileID: 2100000, guid: 76a893e9f6bcf964ca2c6bb1d896f8bc, type: 2}
+  - {fileID: 2100000, guid: 3609d727864590f4d8f9af007113961c, type: 2}
+  - {fileID: 2100000, guid: c4fe48b8089af914e9edff76399d6342, type: 2}
+  - {fileID: 2100000, guid: 92ce8aef259254b4c8a447449f9afb1c, type: 2}
+  - {fileID: 2100000, guid: 4999241af1322d341a97570f0609e2ed, type: 2}
+  pins: 3
+  pinConfig:
+  - pinIndex: 0
+    tiles:
+    - colorIndex: 0
+      size: 3
+  - pinIndex: 1
+    tiles:
+    - colorIndex: 1
+      size: 3
+    - colorIndex: 1
+      size: 2
+    - colorIndex: 1
+      size: 1
+    - colorIndex: 0
+      size: 2
+  - pinIndex: 2
+    tiles:
+    - colorIndex: 0
+      size: 1
