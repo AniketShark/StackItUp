@@ -1,2 +1,2 @@
-# CasualPinball
+# StackItUp
 A hyper casual game.
